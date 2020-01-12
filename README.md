@@ -2,6 +2,8 @@
 
 This project is my entry for the LemonWay WebService Challenge.
 
+You will need to install the NuGet packages as they are not included in this repository.
+
 Building and launching the solution should make a new window appear.
 The window consists of two elements : one that gives the nth iteration of the Fibonnaci sequence and the other one is a XML to Json converter.
 
