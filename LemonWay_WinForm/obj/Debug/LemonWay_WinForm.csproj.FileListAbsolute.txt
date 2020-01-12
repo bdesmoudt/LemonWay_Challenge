@@ -1,0 +1,15 @@
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\Lemonay_WinForm.exe.config
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\Lemonay_WinForm.exe
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\Lemonay_WinForm.pdb
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\log4net.dll
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\log4net.xml
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\LemonWay_WinForm.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\Lemonay_WinForm.CalculForm.resources
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\Lemonay_WinForm.BusyForm.resources
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\Lemonay_WinForm.Properties.Resources.resources
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\LemonWay_WinForm.csproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\LemonWay_WinForm.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\Lemonay_WinForm.exe
+C:\Users\Benjamin\source\repos\LemonWay_WebserviceChallenge\Lemonay_WinForm\obj\Debug\Lemonay_WinForm.pdb
